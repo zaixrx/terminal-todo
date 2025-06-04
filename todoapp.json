@@ -1,0 +1,18 @@
+[
+  {
+    "Text": "Make the todo more comprehensibale",
+    "Done": false
+  },
+  {
+    "Text": "Add the ability to edit/delete todos",
+    "Done": false
+  },
+  {
+    "Text": "add feedback",
+    "Done": false
+  },
+  {
+    "Text": "Simplify Todo File Path Selection",
+    "Done": false
+  }
+]
